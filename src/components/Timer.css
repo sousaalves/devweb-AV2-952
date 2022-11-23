@@ -1,0 +1,14 @@
+#time{
+    width: 100%;
+    font-size: 1.2rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+#restart{
+    margin: 1rem 0;
+    text-align: center;
+}
+#restart:hover{
+    cursor: pointer;
+}
